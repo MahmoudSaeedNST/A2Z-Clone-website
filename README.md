@@ -1,9 +1,11 @@
 # A2Z-Clone-website
 ## Online Shopping Store HTML Template
 ### Full template E-Commerce Website
---- Build On Boostrap 4
---- HTML & CSS Valid Files
---- SEO Optimized
---- Cross Browser Compatible
---- User Friendly
---- Flexible and Multi-purpose
+<ol>
+  <li> Build On Boostrap 4 </li>
+  <li> HTML & CSS Valid Files</li>
+  <li> SEO Optimized</li>
+  <li> Cross Browser Compatible</li>
+  <li> User Friendly</li>
+  <li> Flexible and Multi-purpose</li>
+</ol>
